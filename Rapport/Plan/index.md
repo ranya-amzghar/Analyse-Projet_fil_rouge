@@ -27,7 +27,7 @@ title: Plan du rapport
 
         Design thinking
 
-        Planification
+**Planification**
 
 **Branche fonctionnelle**
 
@@ -41,7 +41,7 @@ title: Plan du rapport
 
 **Branche technique**
 
-        Choix technologiques
+        Stack technologiques
 
         Architecture logicielle
 
