@@ -5,56 +5,46 @@ title: Plan du rapport
 
 ### Rapport Planning
 
-#### table de matières:
+#### Table des matières
 
 **Remerciement**
 
 **Introduction**
 
-**Context du projey**
+**Contexte du projet**
 
-       Objectif de formation(Solicode)
-
-        Application de salons et foires
-
-        Cahier des charges
+- Objectif de formation (Solicode)
+- Application de salons et foires
+- Cahier des charges
 
 **Méthodologie de travail**
 
-        Méthodologies Scrum 
-
-        Processus 2Tup
-
-        Design thinking
+- Méthodologie Scrum
+- Processus 2TUP
+- Design Thinking
 
 **Planification**
 
 **Branche fonctionnelle**
 
-        Carte d'empathie
-
-        Définition de probleme
-
-        Idéation
-
-        Diagramme de cas de l'utilisation
+- Carte d'empathie
+- Définition du problème
+- Idéation
+- Diagramme de cas d'utilisation
 
 **Branche technique**
 
-        Stack technologiques
-
-        Architecture logicielle
-
-        Prototype(Fonctionnalitées,Classes)
+- Stack technologique
+- Architecture logicielle
+- Prototype (fonctionnalités, classes)
 
 **Conception**
 
-         Diagramme de classe
-
-         Maquettes
+- Diagramme de classes
+- Maquettes
 
 **Réalisation**
 
-            Interfaces
+- Interfaces
 
 **Conclusion**
